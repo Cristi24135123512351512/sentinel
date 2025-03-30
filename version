@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.1",
-    "SoftwareUrl":"",
-    "Status":"False",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1327956949404225559/1355835801493045258/Debug.rar?ex=67ea5ffd&is=67e90e7d&hm=348a34d7f7e4fe3c8d0a6da5f6a52b1a9e5377f5e1e4b0faed0c404ff3559a8e&",
+    "Status":"True",
     "Changelog":"[+] added senAPI"
 }
